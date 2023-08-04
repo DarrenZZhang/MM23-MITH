@@ -65,9 +65,9 @@ You should generate the following `*.mat` file for each dataset. The structure o
         └── label.mat
 ```
 
-Please preprocessing dataset to appropriate input format.
+Please preprocess the dataset to appropriate input format.
 
-More details about the generation, meaning, and format of each mat file could be found in `./dataset/README.md`.
+More details about the generation, meaning, and format of each mat file can be found in `./dataset/README.md`.
 
 Additionally, cleaned datasets (MIRFLICKR25K & MSCOCO & NUSWIDE) used in our experiments are available at `pan.baidu.com`:
 
@@ -76,7 +76,7 @@ password：9idm
 
 ### 4. Train
 
-After preparing the python environment, pretrained CLIP model, and dataset, we can train the MITH model.
+After preparing the Python environment, pretrained CLIP model, and dataset, we can train the MITH model.
 #### 4.1 Train on MIRFlickr25K
 ``` 
 python main.py --is-train --dataset flickr25k --query-num 2000 --train-num 10000 --result-name "RESULT_MITH_FLICKR" --k-bits 64
@@ -94,10 +94,10 @@ More scripts for training and testing are given at `./run_MITH.sh`.
 
 
 ### 6. Citation
+If you find our approach useful in your research, please consider citing:
 
+[1] Yishu Liu, Qingpeng Wu, Zheng Zhang, Jingyi Zhang, and Guangming Lu. 2023. Multi-Granularity Interactive Transformer Hashing for Cross-modal Retrieval. In Proceedings of the 31st ACM International Conference on Multimedia (MM ’23). https://doi.org/10.1145/3581783.36.
 
-### 7. Acknowledegements
-
-### 8. Any question
+### 7. Any question
 
 If you have any questions, please feel free to contact Qingpeng Wu (wqp0033@gmail.com).
