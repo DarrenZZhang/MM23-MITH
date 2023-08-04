@@ -1,0 +1,1 @@
+Please put the 'ViT-B-32.pt' in this folder.
