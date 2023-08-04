@@ -5,7 +5,7 @@
 
 ### 1. Introduction
 
-This is the source code of paper "Multi-Granularity Interactive Transformer Hashing for Cross-modal Retrieval".
+This is the source code of ACMMM 2023 paper "Multi-Granularity Interactive Transformer Hashing for Cross-modal Retrieval".
 
 The main architecture of MITH:
 
@@ -96,8 +96,8 @@ More scripts for training and testing are given at `./run_MITH.sh`.
 ### 6. Citation
 If you find our approach useful in your research, please consider citing:
 
-[1] Yishu Liu, Qingpeng Wu, Zheng Zhang, Jingyi Zhang, and Guangming Lu. 2023. Multi-Granularity Interactive Transformer Hashing for Cross-modal Retrieval. In Proceedings of the 31st ACM International Conference on Multimedia (MM ’23). https://doi.org/10.1145/3581783.36.
+Yishu Liu, Qingpeng Wu, Zheng Zhang, Jingyi Zhang, and Guangming Lu. 2023. Multi-Granularity Interactive Transformer Hashing for Cross-modal Retrieval. In Proceedings of the 31st ACM International Conference on Multimedia (MM ’23). https://doi.org/10.1145/3581783.36.
 
 ### 7. Any question
 
-If you have any questions, please feel free to contact Qingpeng Wu (wqp0033@gmail.com).
+If you have any questions, please feel free to contact Yishu Liu (liuyishu.smile@gmail.com) or Qingpeng Wu (wqp0033@gmail.com).
