@@ -65,7 +65,7 @@ You should generate the following `*.mat` file for each dataset. The structure o
         └── label.mat
 ```
 
-Please preprocess the dataset to appropriate input format.
+Please preprocess the dataset to the appropriate input format.
 
 More details about the generation, meaning, and format of each mat file can be found in `./dataset/README.md`.
 
