@@ -71,8 +71,8 @@ More details about the generation, meaning, and format of each mat file can be f
 
 Additionally, cleaned datasets (MIRFLICKR25K & MSCOCO & NUSWIDE) used in our experiments are available at `pan.baidu.com`:
 
-link：https://pan.baidu.com/s/1jCYEBhm-bpikAh_Bti139g 
-password：9idm
+link：https://pan.baidu.com/s/1ZyDTR2IEHlY4xIdLgxtaVA
+password：kdq7
 
 ### 4. Train
 
