@@ -42,8 +42,8 @@ This code is based on the "ViT-B/32".
 You should download "ViT-B/32" and put it in `./cache`, or you can find it from the following link:
 
 
-link：https://pan.baidu.com/s/1jCYEBhm-bpikAh_Bti139g 
-password：9idm
+link：https://pan.baidu.com/s/1ZyDTR2IEHlY4xIdLgxtaVA
+password：kdq7
 
 
 #### 3.2 Generate dataset
